@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Cricket Scorer</string>
+    <string name="Ttoggle">Which team is batting:</string>
+    <string name="teama">TEAM A</string>
+    <string name="teamb">TEAM B</string>
+    <string name="score">0</string>
+    <string name="wickets">0</string>
+    <string name="fslash">/</string>
+    <string name="wicket_btn">wicket</string>
+    <string name="reset_btn">reset</string>
+    <string name="gOver_btn">Game over</string>
+    <string name="six_runs">6</string>
+    <string name="four_runs">4</string>
+    <string name="three_runs">3</string>
+    <string name="two_runs">2</string>
+    <string name="one_run">1</string>
+    <string name="extra">EXT</string>
+</resources>
